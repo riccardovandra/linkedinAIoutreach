@@ -1,0 +1,5 @@
+langchain==0.0.310
+pandas==1.5.3
+python-dotenv==1.0.0
+Requests==2.31.0
+streamlit==1.26.0
